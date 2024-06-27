@@ -90,7 +90,7 @@ Control
 -------- 
  Spacebar = jump
 Press any key to start
-```bash
+```
 
 
 ## 4.Gameplay

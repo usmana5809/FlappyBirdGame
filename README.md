@@ -79,11 +79,15 @@ Please Register your Name: [user enters their name]
 If the user selects option 2 to start the game:
 
  -------------------------- 
+ 
  |      Flappy Bird       | 
+ 
  --------------------------
 FLAPPY BIRD
+
 ----------
 Control 
+
 -------- 
  Spacebar = jump
 Press any key to start
@@ -92,7 +96,8 @@ Press any key to start
 
 ## 4.Gameplay
 During gameplay, the console screen resembles:
- -------------------------- [Border]
+
+ -------------------------- 
  |                         |
  |                         |
  |                         |
@@ -114,7 +119,7 @@ During gameplay, the console screen resembles:
  |                         |
  |                         |
  |                         |
- -------------------------- [Border]
+ -------------------------- 
 Score: 0
 
 - The bird (o) starts at a fixed position (6) within the console window.

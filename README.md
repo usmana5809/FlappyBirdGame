@@ -52,7 +52,7 @@ Compile the C++ files using your preferred compiler (e.g., g++)
 ## Game Output
 # 1.Main Menu Output
 When you run the program, it starts with a main menu where users can choose different options:
-
+```bash
  -------------------------- 
  |      Flappy Bird       | 
  --------------------------
@@ -62,41 +62,40 @@ When you run the program, it starts with a main menu where users can choose diff
 4. Registered Users
 5. Exit
 Select option:
-
+```
 
 # 2.Registration Process
 If you choose option 1 (Register your User Name), the output will prompt you to enter your username:
-
+```bash
  -------------------------- 
  |      Flappy Bird       | 
  --------------------------
 Please Register your Name: [user enters their name]
+```
 
 - After entering your name, it will display the main menu again.
 
 
 ## 3.Starting the Game
 If the user selects option 2 to start the game:
-
+```bash
  -------------------------- 
- 
  |      Flappy Bird       | 
- 
  --------------------------
+
 FLAPPY BIRD
 
 ----------
 Control 
-
 -------- 
  Spacebar = jump
 Press any key to start
-
+```bash
 
 
 ## 4.Gameplay
 During gameplay, the console screen resembles:
-
+```bash
  -------------------------- 
  |                         |
  |                         |
@@ -121,7 +120,7 @@ During gameplay, the console screen resembles:
  |                         |
  -------------------------- 
 Score: 0
-
+```
 - The bird (o) starts at a fixed position (6) within the console window.
 - Pipes (***) start to generate from the right side and move leftward across the screen.
 - Score is displayed on the right side, starting from 0.
@@ -147,7 +146,7 @@ Score: 0
 
 # 6. Game Over
 When the game ends due to a collision or if the user decides to exit (Esc), the following message is displayed:
-
+```bash
 Thank you For Playing our game
  --------------------------
 -------- Game Over -------
@@ -155,7 +154,7 @@ Thank you For Playing our game
 ----------Score: 5--------
 
 Press any key to go back to menu.
-
+```
 
 ## Expected Output
 - Users will interact with the system via a command-line interface.
